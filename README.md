@@ -1,7 +1,5 @@
 ### Hi there!! I am Divyank Kargeti 👋
 
-![myimg](myimg.jpeg)
-
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on ...
 - 🤔 More About Me
