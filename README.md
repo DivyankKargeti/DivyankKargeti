@@ -1,4 +1,4 @@
-### Hey there!! I am Divyank Kargeti 👋
+### Hey there, I am Divyank Kargeti 👋
 
 - 🌱 I’m currently learning new technologies
 - 🤔 About Me:
