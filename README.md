@@ -13,5 +13,5 @@
 </a>
 
 <a href="mailto:divyankkargeti99@gmail.com">
-  <img align="left" alt="Divyank's Email" src="https://img.icons8.com/dusk/2x/50/github.png"/>
+  <img align="left" alt="Divyank's Email" src="https://img.icons8.com/dusk/2x/50/gmail.png"/>
 </a>
