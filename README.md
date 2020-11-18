@@ -4,7 +4,7 @@
 🔭 Computer Science student with a demonstrated history of working on several projects. Skilled in various domains of Computer Science with a Bachelor of Technology - BTech in CSE with specialization in Internet of Things & Smart Cities specialization from University of Petroleum and Energy Studies. <br>
 ⚡ Fun fact: Love playing video games and watching documentaries.
 
-<a href="">
+<a href="https://www.linkedin.com/in/divyank-kargeti-5b7241172/">
   <img align="left" alt="Divyank's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
 </a>
 
