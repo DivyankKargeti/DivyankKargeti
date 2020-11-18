@@ -8,7 +8,7 @@
   <img align="left" alt="Divyank's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
 </a>
 
-<a href="">
+<a href="http://divyankportfolio.000webhostapp.com/">
   <img align="left" alt="Divyank's Website" src="https://img.icons8.com/dusk/2x/50/domain.png"/>
 </a>
 
