@@ -21,9 +21,11 @@ Skilled in solving problems with technologies like:
 - Storybook
 - Test driven development with JEST, React-Testing Library
 - **Other Tools:** Version control system (Git), Defect Tracking tool (Jira), design tool (Figma), Wireframing tool (Balsamiq).
-<br>
-⚡ Fun fact: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
 
+⚡ Fun fact: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
+<br>
+
+### Let's Connect:
 <a href="https://www.linkedin.com/in/divyank-kargeti-5b7241172/">
   <img align="left" alt="Divyank's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
 </a>
