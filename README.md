@@ -20,7 +20,7 @@ Skilled in solving problems with technologies like:
 - Bootstrap
 - Storybook
 - Test driven development with JEST, React-Testing Library
-- **Other Tools:** Version control system (Git), Defect Tracking tool (Jira), design tool (Figma), Wireframing tool (**[Balsamiq](https://balsamiq.com/learn/articles/what-are-wireframes/)**).
+- **Other Tools:** Version control system (Git), Defect Tracking tool (Jira), design tool (Figma), Wireframing tool (Balsamiq).
 <br>
 ⚡ Fun fact: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
 
