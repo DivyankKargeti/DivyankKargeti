@@ -3,8 +3,26 @@
 </h2>
 
 
-🔭 Computer Science student with a demonstrated history of working on several projects. Skilled in various domains of Computer Science with a Bachelor of Technology - BTech in CSE with specialization in Internet of Things & Smart Cities specialization from University of Petroleum and Energy Studies. <br>
-⚡ Fun fact: Love playing video games and watching documentaries.
+I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and a demonstrated history of working on several projects, experienced in building web products.
+
+I am graduated with Bachelor of Technology - B.Tech in CSE with specialisation in Internet of Things & Smart Cities from University of Petroleum and Energy Studies(UPES, Dehradun). 
+
+Currently working with Rakuten on building NFT Marketplace platform from scratch and to enrich the user experience.
+
+Skilled in solving problems with technologies like:
+
+- HTML5, CSS3, Sass
+- JavaScript ES6
+- React and NextJs
+- Context API
+- Redux and Redux Toolkit
+- Tailwind CSS
+- Bootstrap
+- Storybook
+- Test driven development with JEST, React-Testing Library
+- **Other Tools:** Version control system (Git), Defect Tracking tool (Jira), design tool (Figma), Wireframing tool (**[Balsamiq](https://balsamiq.com/learn/articles/what-are-wireframes/)**).
+<br>
+⚡ Fun fact: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
 
 <a href="https://www.linkedin.com/in/divyank-kargeti-5b7241172/">
   <img align="left" alt="Divyank's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
