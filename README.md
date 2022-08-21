@@ -3,11 +3,11 @@
 </h2>
 
 
-I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and a demonstrated history of working on several projects, experienced in building web products.
-
-I am graduated with Bachelor of Technology - B.Tech in CSE with specialisation in Internet of Things & Smart Cities from University of Petroleum and Energy Studies(UPES, Dehradun). 
+I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and experienced in building web products. Solid hands-on experience of working in technologies like ReactJs, NextJs, Redux/Context API, JavaScript, ES6, Tailwind, CSS/Sass.
 
 Currently working with Rakuten on building NFT Marketplace platform from scratch and to enrich the user experience.
+
+I am graduated with Bachelor of Technology - B.Tech in CSE with specialisation in Internet of Things & Smart Cities from University of Petroleum and  Energy Studies(UPES, Dehradun). 
 
 Skilled in solving problems with technologies like:
 
@@ -20,9 +20,9 @@ Skilled in solving problems with technologies like:
 - Bootstrap
 - Storybook
 - Test driven development with JEST, React-Testing Library
-- **Other Tools:** Version control system (Git), Defect Tracking tool (Jira), design tool (Figma), Wireframing tool (Balsamiq).
+- **Others(Methodologies and Tools):** Agile, Version control system (Git), Defect Tracking tool (Jira), Confluence, design tool (Figma), Wireframing tool (Balsamiq).
 
-⚡ Fun fact: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
+**Fun fact**: When I am not working, I spend my time playing     video games or watching documentaries and travel vlogs.
 <br>
 
 ### Let's Connect:
