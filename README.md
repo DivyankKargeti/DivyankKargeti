@@ -1,7 +1,6 @@
-<h2> Hey, I'm Divyank! 
-  <img src="https://i.pinimg.com/originals/61/fd/36/61fd36ed2b95912eb2d4b9e21f5e3535.gif" width="100">
-</h2>
+<img src="https://i.pinimg.com/originals/61/fd/36/61fd36ed2b95912eb2d4b9e21f5e3535.gif" width="100">
 
+<h2> Hey, I'm Divyank! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and experienced in building web products. Solid hands-on experience of working in technologies like ReactJs, NextJs, Redux/Context API, JavaScript, ES6, Tailwind, CSS/Sass.
 
