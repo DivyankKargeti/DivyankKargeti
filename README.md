@@ -29,7 +29,7 @@ Skilled in solving problems with technologies like:
   <img align="left" alt="Divyank's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
 </a>
 
-<a href="http://divyankportfolio.000webhostapp.com/">
+<a href="https://divyank-portfolio.vercel.app/">
   <img align="left" alt="Divyank's Website" src="https://img.icons8.com/dusk/2x/50/domain.png"/>
 </a>
 
