@@ -31,7 +31,7 @@ Skilled in solving problems with technologies like:
     <a href="https://git.io/streak-stats" title="Go to Source">
       <img
         align="left"
-        width="480"
+        width="380"
         src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankKargeti&theme=gruvbox&border=61dafb&hide_border=true"
         alt="Some Records"
       />
@@ -39,7 +39,7 @@ Skilled in solving problems with technologies like:
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img
         align="right"
-        width="480"
+        width="380"
         src="https://github-readme-stats.vercel.app/api?username=DivyankKargeti&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
       />
     </a>
