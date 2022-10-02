@@ -24,6 +24,29 @@ Skilled in solving problems with technologies like:
 **Fun fact**: When I am not working, I spend my time playing     video games or watching documentaries and travel vlogs.
 <br>
 
+<hr>
+## 📈 Some Stats
+<div align="center">
+  <div align="center">
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img
+        align="left"
+        width="396"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankKargeti&theme=gruvbox&border=61dafb&hide_border=true"
+        alt="Some Records"
+      />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img
+        align="right"
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=DivyankKargeti&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+      />
+    </a>
+  </div>
+  </div></div>
+<hr>
+
 ### Let's Connect:
 <a href="https://www.linkedin.com/in/divyank-kargeti-5b7241172/">
   <img align="left" alt="Divyank's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
