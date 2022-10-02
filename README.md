@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dzgglsids/image/upload/v1664730887/Portfolio/my-profile-picture/My_project-1_lvpn6u.png" width="100%">
+<img src="https://res.cloudinary.com/dzgglsids/image/upload/v1664731464/Portfolio/my-profile-picture/My_project-1_2_m7esiu.png" width="100%">
 
 <h2> Hey, I'm Divyank! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
