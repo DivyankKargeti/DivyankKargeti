@@ -38,7 +38,7 @@
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="40" src="https://cdn.cdnlogo.com/logos/p/79/php.svg"></code>
 <code><img height="40" src="https://img.icons8.com/fluency/48/000000/node-js.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+<!--- <code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></code> --->
 <code><img src="https://img.icons8.com/ios/50/000000/markdown--v2.png"/></code>
 
 </br>
