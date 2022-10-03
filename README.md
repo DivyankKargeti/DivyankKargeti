@@ -1,14 +1,16 @@
 <img src="https://res.cloudinary.com/dzgglsids/image/upload/v1664732832/Portfolio/my-profile-picture/My_project-1_4_qo62wx.png" width="100%">
 
-<h2> Hey, I'm Divyank! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+## Hey, I'm Divyank! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and experienced in building web products. Solid hands-on experience of working in technologies like ReactJs, NextJs, Redux/Context API, JavaScript, ES6, Tailwind, CSS/Sass.
+#### I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and experienced in building web products. Solid hands-on experience of working in technologies like ReactJs, NextJs, Redux/Context API, JavaScript, ES6, Tailwind, CSS/Sass.
 
-Currently working with Rakuten on building NFT Marketplace platform from scratch and to enrich the user experience.
+#### Currently working with Rakuten on building NFT Marketplace platform from scratch and to enrich the user experience.
 
-I am graduated with Bachelor of Technology - B.Tech in CSE with specialisation in Internet of Things & Smart Cities from University of Petroleum and Energy Studies(UPES, Dehradun).
+#### I am graduated with Bachelor of Technology - B.Tech in CSE with specialisation in Internet of Things & Smart Cities from University of Petroleum and Energy Studies(UPES, Dehradun).
 
-*Skilled in solving problems with technologies like:*
+####  🚀 To know more headout to my **[Portfolio](https://divyank-portfolio.vercel.app/)**.
+
+### *Skilled in solving problems with technologies like:*
 
 - HTML5, CSS3, Sass
 - JavaScript ES6
