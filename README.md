@@ -8,7 +8,7 @@ Currently working with Rakuten on building NFT Marketplace platform from scratch
 
 I am graduated with Bachelor of Technology - B.Tech in CSE with specialisation in Internet of Things & Smart Cities from University of Petroleum and Energy Studies(UPES, Dehradun).
 
-Skilled in solving problems with technologies like:
+*Skilled in solving problems with technologies like:*
 
 - HTML5, CSS3, Sass
 - JavaScript ES6
@@ -21,7 +21,28 @@ Skilled in solving problems with technologies like:
 - Test driven development with JEST, React-Testing Library
 - **Others(Methodologies and Tools):** Agile, Version control system (Git), Defect Tracking tool (Jira), Confluence, design tool (Figma), Wireframing tool (Balsamiq).
 
-**Fun fact**: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
+</br>
+
+<code><img height="50" src="https://img.icons8.com/plasticine/100/000000/react.png"/></code> 
+<code><img height="40" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></code>
+<code><img height="30" src="https://cdn.cdnlogo.com/logos/t/58/tailwindcss.svg"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/redux.png"/></code>
+<code><img height="30" src="https://cdn.cdnlogo.com/logos/s/36/storybook.svg"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="40" src="https://cdn.cdnlogo.com/logos/p/79/php.svg"></code>
+<code><img height="40" src="https://img.icons8.com/fluency/48/000000/node-js.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+<code><img src="https://img.icons8.com/ios/50/000000/markdown--v2.png"/></code>
+
+</br>
+
+**✨✨Fun fact**: When I am not working, I spend my time playing video games or watching documentaries and travel vlogs.
+
 <br>
 
 <hr>
@@ -61,3 +82,8 @@ Skilled in solving problems with technologies like:
 <a href="mailto:divyankkargeti99@gmail.com">
   <img align="left" alt="Divyank's Email" src="https://img.icons8.com/dusk/2x/50/gmail.png"/>
 </a>
+
+</br>
+<img src="https://res.cloudinary.com/dzgglsids/image/upload/v1664804888/Portfolio/my-profile-picture/vectorpaint_onjhyd.svg" width="100%" height="100">
+
+
