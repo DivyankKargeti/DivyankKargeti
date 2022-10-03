@@ -48,7 +48,7 @@
 <br>
 
 <hr>
-<h2> 📈 Some Stats </h2>
+<h2> 📊📈 Some Stats </h2>
 <div align="center">
   <div align="center">
     <a href="https://git.io/streak-stats" title="Go to Source">
