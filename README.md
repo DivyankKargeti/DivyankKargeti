@@ -80,6 +80,9 @@
 <a href="mailto:divyankkargeti99@gmail.com">
   <img align="left" alt="Divyank's Email" src="https://img.icons8.com/dusk/2x/50/gmail.png"/>
 </a>
+<a href="https://www.instagram.com/divyankkargeti/">
+  <img align="left" alt="Divyank's Intagram" src="https://img.icons8.com/fluency/48/7950F2/instagram-new.png"/>
+</a>
 
 </br>
 <img src="https://res.cloudinary.com/dzgglsids/image/upload/v1664804888/Portfolio/my-profile-picture/vectorpaint_onjhyd.svg" width="100%" height="100">
