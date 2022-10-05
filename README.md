@@ -48,27 +48,24 @@
 
 <hr>
 <h2> 📊📈 Some Stats </h2>
-<div align="center">
-  <div align="center">
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img
-        align="left"
-        width="380"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankKargeti&theme=gruvbox&border=61dafb&hide_border=true"
-        alt="Some Records"
-      />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img
-        align="right"
-        width="380"
-        src="https://github-readme-stats.vercel.app/api?username=DivyankKargeti&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </div>
-</div>
+
+<p align="left">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=DivyankKargeti&show_icons=true&theme=gruvbox">
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankKargeti&theme=gruvbox">
+    </p>
+</p>
 
 <img src="https://res.cloudinary.com/dzgglsids/image/upload/v1664747522/Portfolio/my-profile-picture/My_project-1_zyzpcq.png" width="100%" height="20">
+
+<br/>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=DivyankKargeti&theme=gruvbox&row=1">
+</p>
+<br/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=DivyankKargeti&theme=react-dark">
 
 <hr>
 <h2>Let's Connect:</h2>
