@@ -51,8 +51,8 @@
 
 <p align="left">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=DivyankKargeti&show_icons=true&theme=gruvbox">
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankKargeti&theme=gruvbox">
+        <img width="300" src="https://github-readme-stats.vercel.app/api?username=DivyankKargeti&show_icons=true&theme=gruvbox">
+        <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankKargeti&theme=gruvbox">
     </p>
 </p>
 
