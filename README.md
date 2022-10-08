@@ -2,7 +2,9 @@
 
 ## Hey, I'm Divyank! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and experienced in building web products. Solid hands-on experience of working in technologies like ReactJs, NextJs, Redux/Context API, JavaScript, ES6, Tailwind, CSS/Sass.
+#### I am a Software(SDE-I) & Frontend Engineer with a never-ending drive to improve my skills and experienced in building web products. Solid hands-on experience of working in technologies like ReactJs, NextJs, Redux/Context API, JavaScript, ES6, Tailwind, CSS/Sass. 
+
+#### 🎨 I can also develop amazing responsive layouts using Tailwind, BootStrap, Sass, Styled Components, Bulma.
 
 #### Currently working with Rakuten on building NFT Marketplace platform from scratch and to enrich the user experience.
 
